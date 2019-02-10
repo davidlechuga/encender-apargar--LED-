@@ -8,8 +8,6 @@
 //  Proyectos, Cursos, Asesorias: 6643-6200 ó 55-6255-7612
 //  robotica.unam@gmail.com
 
-
-
 void setup() {
   Serial.begin(9600); //Iniciamos comunicación con Serial.
   pinMode(11,OUTPUT);//Declaramos el tipo de pin (Salida) 
